@@ -1,6 +1,6 @@
 # ✍️ Hello World, I'm εscribba!
 
-![Gemini_Generated_Image_h8f3u3h8f3u3h8f3](https://github.com/user-attachments/assets/b473f562-3134-49a8-8405-1216545d2410)
+<img src="https://github.com/user-attachments/assets/b473f562-3134-49a8-8405-1216545d2410" width="400" height="400" />`
 
 
 ## tl;dr
